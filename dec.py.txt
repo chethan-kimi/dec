@@ -1,4 +1,4 @@
 hello
 changing master branch to see merge conflicts
-second
+removed
 feature branch modify to see merging
