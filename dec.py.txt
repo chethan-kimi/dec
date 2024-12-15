@@ -7,4 +7,5 @@ conflict
 diffmand
 git stash commit
 stash check
+rebase in feature
 rebase in master
