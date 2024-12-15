@@ -5,3 +5,5 @@ removed
 feature branch modify to see merging
 conflict
 diffmand
+git stash commit
+stash check
