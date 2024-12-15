@@ -4,3 +4,4 @@ changing master branch to see merge conflicts
 removed
 feature branch modify to see merging
 conflict
+diffmand
