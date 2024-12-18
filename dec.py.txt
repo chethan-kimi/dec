@@ -8,3 +8,4 @@ diffmand
 git stash commit
 stash check
 rebase in master
+testing
